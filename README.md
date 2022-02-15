@@ -1,1 +1,5 @@
-# 15-2-22-ass1
+a=int(input())
+b=int(input())
+print(a+b)
+print(a-b)
+print(a*b)
